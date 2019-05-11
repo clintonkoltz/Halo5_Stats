@@ -1,6 +1,6 @@
 import requests, json
 
-apikey = "2336650f744d485481c99a91b6d0c7b5"
+apikey = ""
 
 class Halo5(object):
 
